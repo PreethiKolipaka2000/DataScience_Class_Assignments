@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="/static/display.css"/>
+    </head>
+<body>
+    <div>
+        <table> 
+            <tr>
+                {% for i in headings %} 
+                <b><th> {{i}}</th></b>
+                {% endfor %}
+
+            </tr>
+            {% for row in data %} 
+            <tr class ="table__row">
+                {% set data2=row[0] %} 
+                {% set image=row[1] %} 
+                {% for d in row[0] %} 
+                        <td> {{d}}</td>
+                {% endfor %}
+                <td> <img src="{{image}}"></td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+</body>
+</html>

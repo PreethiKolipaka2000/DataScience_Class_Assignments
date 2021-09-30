@@ -1,0 +1,30 @@
+table
+    {
+        border-spacing:2;
+        margin:1rem;
+        width: auto;
+        font: 20px Times New Roman;
+        background-color: rgb(190, 206, 199);
+    }
+table,  td 
+    {
+        border: 2px solid black;
+        border-collapse: collapse;
+        padding: 3px 5px;
+        text-align: center;
+    }   
+    th 
+    {
+        border: 2px solid black;
+        border-collapse: collapse;
+        padding: 30px 55px;
+        text-align: center;
+        background-color: rgb(243, 242, 179);
+    }
+    img {
+        width: 200px;
+        height: 125px;
+      } 
+      .table__row:nth-child(even){
+        background-color: #e5e5e5;
+    }
