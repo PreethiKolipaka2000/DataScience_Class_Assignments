@@ -1,4 +1,11 @@
-# PROJECT WEEK 1 : 
+
+# PROGRAM        : Inserting Data from JSON to Mongo DB and Displaying As HTML TABLE FORMAT
+# PROGRAMMED BY  : KOLIPAKA PREETHI
+# EMAIL ID       : b18cs148@kitsw.ac.in 
+# DATE           : 27-SEP-2021 
+# PYTHON VERSION : 3.8
+# CAVEATS        : None 
+# LICENSE        : None  
 from pymongo import MongoClient 
 from json2html import *
 import json 
