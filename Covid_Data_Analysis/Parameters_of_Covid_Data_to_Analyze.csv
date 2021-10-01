@@ -1,0 +1,18 @@
+Daily Confirmed,,Total Confirmed,,Daily Recovered,,Total Recovered,,Daily Deceased,,Total Deceased,
+,,,,,,,,,,,
+Mean,55452.01974,Mean,11620820.28,Mean,54240.85362,Mean,10887584.27,Mean,735.5115132,Mean,155795.3076
+Standard Error,3247.037822,Standard Error,471828.2749,Standard Error,3168.665392,Standard Error,455525.2608,Standard Error,40.55873012,Standard Error,6012.644871
+Median,34736.5,Median,9412481,Median,34567.5,Median,8823570,Median,429,Median,136364
+Mode,0,Mode,3,Mode,0,Mode,3,Mode,0,Mode,0
+Standard Deviation,80064.34168,Standard Deviation,11634179.3,Standard Deviation,78131.86124,Standard Deviation,11232185.19,Standard Deviation,1000.083216,Standard Deviation,148257.7289
+Sample Variance,6410298808,Sample Variance,1.35E+14,Sample Variance,6104587741,Sample Variance,1.26E+14,Sample Variance,1000166.438,Sample Variance,21980354191
+Kurtosis,7.806917248,Kurtosis,-0.847960827,Kurtosis,7.166100639,Kurtosis,-0.711960846,Kurtosis,5.430730847,Kurtosis,-0.659182852
+Skewness,2.803722989,Skewness,0.768645198,Skewness,2.704460986,Skewness,0.831826244,Skewness,2.396052631,Skewness,0.789147895
+Range,414280,Range,33714827,Range,422391,Range,32978439,Range,6139,Range,447191
+Minimum,0,Minimum,1,Minimum,0,Minimum,0,Minimum,0,Minimum,0
+Maximum,414280,Maximum,33714828,Maximum,422391,Maximum,32978439,Maximum,6139,Maximum,447191
+Sum,33714828,Sum,7065458730,Sum,32978439,Sum,6619651235,Sum,447191,Sum,94723547
+Count,608,Count,608,Count,608,Count,608,Count,608,Count,608
+Largest(1),414280,Largest(1),33714828,Largest(1),422391,Largest(1),32978439,Largest(1),6139,Largest(1),447191
+Smallest(1),0,Smallest(1),1,Smallest(1),0,Smallest(1),0,Smallest(1),0,Smallest(1),0
+Confidence Level(95.0%),6376.792139,Confidence Level(95.0%),926614.04,Confidence Level(95.0%),6222.878102,Confidence Level(95.0%),894596.8792,Confidence Level(95.0%),79.65247267,Confidence Level(95.0%),11808.11208
