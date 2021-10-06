@@ -1,4 +1,13 @@
 
+
+# PROGRAM        : EXTRACTING MOTH AND YEAR WISE INCREASE OR DECREASE IN THE PURCHASE OF STOCK WITH THE GIVEN DATA
+# PROGRAMMED BY  : KOLIPAKA PREETHI
+# EMAIL ID       : b18cs148@kitsw.ac.in 
+# DATE           : 06-10-2021
+# PYTHON VERSION : 3.8
+# CAVEATS        : None 
+# LICENSE        : None 
+
 from statistics import mean
 import pandas as pd 
 def getMonth(s):
