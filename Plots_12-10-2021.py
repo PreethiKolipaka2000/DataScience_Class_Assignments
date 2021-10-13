@@ -1,3 +1,15 @@
+# PROGRAM        : WORKING WITH PLOTTING GRAPH USING MATPLOTLIB
+# DESCRIPTION    : 1. Plot a Graph for STandard Deviation for India and US in the Month of Jan And Feb
+#                  2. Create a Chart for Fully Vaccinated people For India Vs US
+#                  3. Create a Chart for Partially Vaccinated people For India Vs US
+# PROGRAMMED BY  : KOLIPAKA PREETHI
+# EMAIL ID       : b18cs148@kitsw.ac.in 
+# DATE           : 12-OCT-2021
+# PYTHON VERSION : 3.8
+# CAVEATS        : None 
+# LICENSE        : None
+
+
 import matplotlib.pyplot as plt 
 import numpy as np
 import pandas as pd 
